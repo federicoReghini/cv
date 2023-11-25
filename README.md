@@ -39,12 +39,14 @@ Dedicated and detail-oriented frontend developer with 2 years of experience in d
 
 ## 🚀 Projects
 - [List and briefly describe key projects you've worked on, including technologies used and your role.]
-
-## 🏆 Certifications
-- [List any relevant certifications, e.g., AWS Certified Developer, Oracle Certified Java Developer.]
-
-## 🤝 Professional Memberships
-- [If applicable, mention any relevant professional organizations you are a part of.]
+- Developed a trading app for a bank -> Expo, SignalR(websocket)
+- Developed and maintained a crm app for one of the biggest world wide fashion company -> Expo, Scandit sdk, Twilio(websocket),
+- Developed and maintained a white label crm app -> Expo
+- Developed and maintained a videoChat app. Right now i'm developing a real time streaming of 3d models for let the client see the product -> Expo, Twilio(websocket)
+- Developed and maintained a productivity app for the top members of a big fashion company -> Expo, develop many custom charts etc..
+- Developed a website for a restaurant -> Laravel
+- Developed a e-commerce/blog -> Laravel
+- Developed and maintained a company website front end and back office part -> React
 
 ## 📄 References
 Available upon request.
