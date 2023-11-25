@@ -38,7 +38,6 @@ Dedicated and detail-oriented frontend developer with 2 years of experience in d
   - Implemented best practices in coding to ensure maintainability and scalability applications.
 
 ## 🚀 Projects
-- [List and briefly describe key projects you've worked on, including technologies used and your role.]
 - Developed a trading app for a bank -> Expo, SignalR(websocket)
 - Developed and maintained a crm app for one of the biggest world wide fashion company -> Expo, Scandit sdk, Twilio(websocket),
 - Developed and maintained a white label crm app -> Expo
