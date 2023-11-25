@@ -7,7 +7,7 @@
 Dedicated and detail-oriented frontend developer with 2 years of experience in designing, implementing, testing, and maintaining web/mobile applications. Seeking a challenging role to leverage my skills in * A.i, mobile application, full-stack development, software architecture*.
 
 ## 🎓 Education
-- **Degree Earned:** Bachelor of human sciences
+- **Degree Earned:** Diploma of human sciences
 - *Hight school:** Carducci
 - **Graduation Date:** 2019
 - **Relevant coursework and achievements:**
