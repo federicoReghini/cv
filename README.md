@@ -24,15 +24,15 @@ Dedicated and detail-oriented frontend developer with 2 years of experience in d
 
 ## 💼 Work Experience
 ### 1. Frontend Developer
-- **Company:** Beije
+- **Company:** Beije people first
 - **Location:** Lissone, Lombardy, Italy
 - **Dates:** July-2022
   - Developed and maintained *Mobile apps for a bank and Big fashion company*.
   - Collaborated with cross-functional teams to deliver high-quality solutions.
   - Conducted code reviews and provided constructive feedback to team members.
 
-### 2. Job Title
-- **Company:** Academy Trainee
+### 2. Academy Trainee
+- **Company:** Beije people first
 - **Location:** Remote
 - **Dates:** April-2022
   - Implemented best practices in coding to ensure maintainability and scalability applications.
