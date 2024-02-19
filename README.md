@@ -4,7 +4,7 @@
 [*LinkedIn Profile*](https://www.linkedin.com/in/federico-reghini) | [*GitHub Profile*](https://github.com/federicoReghini)
 
 ## 👨‍💻 Objective
-Dedicated and detail-oriented frontend developer with 2 years of experience in designing, implementing, testing, and maintaining web/mobile applications. Seeking a challenging role to leverage my skills in *A.i, mobile application, full-stack development, software architecture*.
+Dedicated and detail-oriented frontend developer with 2 years of experience in designing, implementing, testing, and maintaining web/mobile applications. Seeking a challenging role to leverage my skills in *A.i, mobile/web application, full-stack development, software architecture*.
 
 ## 🎓 Education
 - **Degree Earned:** Diploma of Human Sciences
@@ -41,11 +41,16 @@ Dedicated and detail-oriented frontend developer with 2 years of experience in d
 - Developed a trading app for a bank using Expo and SignalR (websocket).
 - Developed and maintained a CRM app for one of the biggest worldwide fashion companies using Expo, Scandit SDK, Twilio (websocket).
 - Developed and maintained a white-label CRM app using Expo.
-- Developed and maintained a video chat app. Currently developing real-time streaming of 3D models to let clients see the product using Expo and Twilio (websocket).
+- Developed and maintained a video chat app. Added Real-time streaming of 3D models to let clients see the product using Expo and Twilio (websocket).
 - Developed and maintained a productivity app for top members of a big fashion company using Expo and custom charts.
 - Developed a website for a restaurant using Laravel.
 - Developed an e-commerce/blog using Laravel.
 - Developed and maintained a company website frontend and back office part using React.
 
+## Current Projects
+  Working on the infastrucute of a new area for the company i work for. Trying to find the best way to architecture and manage different kind of apps(web and mobile),
+  on different frameworks with  the optimizations to be white-label,possibly divided by tenant(if need it) and with a config file for easy customizations in the 
+  delivery phase.
+  
 ## 📄 References
 Available upon request.
