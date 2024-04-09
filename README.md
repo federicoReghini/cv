@@ -51,6 +51,3 @@ Dedicated and detail-oriented frontend developer with 2 years of experience in d
   Working on the infastrucute of a new area for the company i work for. Trying to find the best way to architecture and manage different kind of apps(web and mobile),
   on different frameworks with  the optimizations to be white-label,possibly divided by tenant(if need it) and with a config file for easy customizations in the 
   delivery phase.
-  
-## 📄 References
-Available upon request.
