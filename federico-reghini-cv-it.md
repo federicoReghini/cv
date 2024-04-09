@@ -4,15 +4,15 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/federico-reghini)
 
 ## 👨‍💻 Obiettivo
-Sviluppatore frontend orientato ai dettagli con 2 anni di esperienza nella progettazione, implementazione, test e manutenzione di applicazioni web/mobile. Cerco un ruolo stimolante per valorizzare le mie competenze in *A.I, sviluppo di applicazioni mobile/web, sviluppo full-stack, software engineering*.
+Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella progettazione, implementazione, test e manutenzione di applicazioni web/mobile. Cerco un ruolo stimolante per valorizzare le mie competenze in *A.I, sviluppo di applicazioni mobile/web, sviluppo full-stack, software engineering*.
 
 ## 🎓 Formazione
-- **Titolo Ottenuto:** Diploma delle Scienze Umane
-- **Scuola Superiore:** Liceo Carducci, [Trieste, Italia]
-- **Data diploma:** 2019
 - **Corsi e riconoscimenti pertinenti:**
   - Novembre 2021 – Dicembre 2021: Corso React-RN/Redux/Typescript presso DotAcademy
   - Giugno 2021 - Novembre 2021: Corso Sviluppatore web full-stack presso Epicode school
+- **Titolo Ottenuto:** Diploma delle Scienze Umane
+- **Scuola Superiore:** Liceo Carducci, [Trieste, Italia]
+- **Data diploma:** 2019
 
 ## 💻 Competenze Tecniche
 - **Linguaggi di Programmazione:** JavaScript (Avanzato), Python (Intermedio), Php (Intermedio), Yaml (Intermedio)
