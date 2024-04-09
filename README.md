@@ -1,7 +1,7 @@
 # Federico Reghini
 *Via Carlo Favetti | Trieste, Italy, 34136*  
 *federicoreghini@gmail.com | +39 392 86 75 750*  
-[*LinkedIn Profile*](https://www.linkedin.com/in/federico-reghini)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/federico-reghini)
 
 ## 👨‍💻 Objective
 Dedicated and detail-oriented frontend developer with 2 years of experience in designing, implementing, testing, and maintaining web/mobile applications. Seeking a challenging role to leverage my skills in *A.i, mobile/web application, full-stack development, software architecture*.
