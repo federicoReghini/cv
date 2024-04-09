@@ -32,8 +32,8 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
 - **Date:** Luglio 2022 - Presente
 - **Mansioni:**
   - Coordinamento organizzativo del team attraverso l'implementazione di procedure strutturate, inclusa la creazione di milestone, la gestione delle issue su GitHub e la redazione della documentazione correlata.
-  - Collaborato con team interfunzionali per fornire soluzioni di alta qualità.
-  - Condotto revisioni del codice e fornito feedback costruttivo ai membri del team.
+ - Collaborazione con team interfunzionali al fine di garantire la realizzazione di soluzioni di elevata qualità.
+ - Condotta revisione del codice e fornito feedback costruttivo ai colleghi per ottimizzare l'efficacia e l'affidabilità del lavoro di squadra.
 
 ### 2. Academy Beije
 - **Azienda:** Beije People First
