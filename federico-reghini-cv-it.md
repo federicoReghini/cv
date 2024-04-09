@@ -22,7 +22,7 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
 - **Gestione dei Database:** MySQL, MongoDB
 - **Controllo Versione:** Git
 - **Frameworks:** Expo, Next, Astro, Qwik, Svelte
-- **Strumenti:** Neovim, xcode, git, github
+- **Strumenti:** Neovim, xcode, github
 
 ## 💼 Esperienza Lavorativa
 ### 1. Sviluppatore Frontend
