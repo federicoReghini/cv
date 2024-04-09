@@ -25,9 +25,10 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
 - **Strumenti:** Neovim, xcode, github
 
 ## 💼 Esperienza Lavorativa
-### 1. Sviluppatore Frontend
+### 1. Sviluppatore Front-end
 - **Azienda:** Beije People First
 - **Sede:** Lissone, Lombardia, Italia
+- **Modalità di lavoro:** Remoto
 - **Date:** Luglio 2022 - Presente
   - Sviluppato e mantenuto app mobile per una banca e una grande azienda di moda.
   - Collaborato con team interfunzionali per fornire soluzioni di alta qualità.
@@ -35,9 +36,10 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
 
 ### 2. Academy Beije
 - **Azienda:** Beije People First
-- **Sede:** Remoto
+- **Sede:** Lissone, Lombardia, Italia
+- **Modalità di lavoro:** Remoto
 - **Date:** Aprile 2022 - Giugno 2022
-  - Ho appreso le best practice per garantire un codice solido, performante,mantenibile e scalabile.
+  - Ho appreso le best practice per garantire un codice solido, performante, mantenibile e scalabile.
   
 ## 🚀 Progetti
 - App di trading per una banca utilizzando Expo e SignalR (websocket).
@@ -47,7 +49,7 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
 - Sviluppato e mantenuto un'app di produttività per i top manager di una grande azienda di moda utilizzando Expo e grafici personalizzati.
 - Sviluppato un sito web per un ristorante utilizzando Laravel.
 - Sviluppato un e-commerce/blog utilizzando Laravel.
-- Sviluppato e mantenuto il frontend e il back office del sito web aziendale utilizzando React.
+- Sviluppato e mantenuto il front-end e il back office del sito web aziendale utilizzando React.
 
 ## Progetti Attuali
   Lavoro sull'infrastruttura di un'area nuova per un'azienda. Sto cercando il modo migliore per architetturare e gestire diversi tipi di app (web e mobile),
