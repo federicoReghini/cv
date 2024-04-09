@@ -30,7 +30,8 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
 - **Sede:** Lissone, Lombardia, Italia
 - **Modalità di lavoro:** Remoto
 - **Date:** Luglio 2022 - Presente
-- Coordinamento organizzativo del team attraverso l'implementazione di procedure strutturate, inclusa la creazione di milestone, la gestione delle issue su GitHub e la redazione della documentazione correlata.
+- **Mansioni:**
+  - Coordinamento organizzativo del team attraverso l'implementazione di procedure strutturate, inclusa la creazione di milestone, la gestione delle issue su GitHub e la redazione della documentazione correlata.
   - Collaborato con team interfunzionali per fornire soluzioni di alta qualità.
   - Condotto revisioni del codice e fornito feedback costruttivo ai membri del team.
 
