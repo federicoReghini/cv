@@ -10,9 +10,11 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
 - **Corsi e riconoscimenti pertinenti:**
   - Novembre 2021 – Dicembre 2021: Corso React-RN/Redux/Typescript presso DotAcademy
   - Giugno 2021 - Novembre 2021: Corso Sviluppatore web full-stack presso Epicode school
-- **Titolo Ottenuto:** Diploma delle Scienze Umane
-- **Scuola Superiore:** Liceo Carducci, [Trieste, Italia]
-- **Data diploma:** 2019
+    
+- **Diploma**
+  - **Titolo Ottenuto:** Diploma delle Scienze Umane
+  - **Scuola Superiore:** Liceo Carducci, [Trieste, Italia]
+  - **Data diploma:** 2019
 
 ## 💻 Competenze Tecniche
 - **Linguaggi di Programmazione:** JavaScript (Avanzato), Python (Intermedio), Php (Intermedio), Yaml (Intermedio)
