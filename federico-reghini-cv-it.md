@@ -53,8 +53,7 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
 - Sviluppato e mantenuto il front-end e il back office del sito web aziendale utilizzando React.
 
 ## Progetti Attuali
-  Lavoro sull'infrastruttura di un'area nuova per un'azienda. Sto cercando il modo migliore per architetturare e gestire diversi tipi di app (web e mobile),
-  su diversi framework con ottimizzazioni per essere white-label, eventualmente divise per tenant (se necessario) e con un file di configurazione per personalizzazioni facili nella fase di consegna.
-Il progetto consiste in una monorepo con integrazione di una **cli** ad hoc per l'utilizzo dei prodotti fatti da noi:
+  Attualmente, sto dedicando il mio impegno alla progettazione e sviluppo dell'infrastruttura di una nuova area aziendale. Il mio obiettivo principale è individuare e implementare le migliori pratiche per l'architettura e la gestione di diverse applicazioni (web e mobile) su vari framework, con ottimizzazioni per essere white-label, eventualmente divise per tenant (se necessario) e con un file di configurazione per personalizzazioni facili nella fase di consegna.
+Il progetto consiste in una monorepo con integrazione di una **cli** ad hoc per l'utilizzo dei nostri prodotti:
   - app - mobile/web
   - packages - libreria gestione chiamate api, componenti **UI** per react e react-native etc.. 
