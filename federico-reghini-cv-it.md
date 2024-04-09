@@ -44,7 +44,7 @@ Sviluppatore front-end orientato ai dettagli con 2 anni di esperienza nella prog
   
 ## 🚀 Progetti
 - App di trading per una banca utilizzando Expo e SignalR (websocket).
-- Sviluppato e mantenuto un'app CRM per una delle più grandi aziende di moda al mondo utilizzando Expo come framework e integrando funzionalitá come Scandit SDK, Twilio (websocket).
+- Sviluppato e mantenuto un'app CRM per una delle più grandi aziende di moda al mondo utilizzando Expo come framework e integrando funzionalità come Scandit SDK, Twilio (websocket).
 - Sviluppato e mantenuto un'app CRM white-label utilizzando Expo.
 - Sviluppato e mantenuto un'app di video chat. Aggiunta dello streaming in tempo reale di modelli 3D per consentire ai clienti di vedere il prodotto utilizzando Expo e Twilio (websocket).
 - Sviluppato e mantenuto un'app di produttività per i top manager di una grande azienda di moda utilizzando Expo e grafici personalizzati.
